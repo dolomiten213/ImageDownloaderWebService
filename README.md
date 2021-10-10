@@ -5,7 +5,7 @@ Example of downloading 10 cats images from google images
 ![web site](google_cats.png)
 
 
-![result](res_cats.png)
+![result](downloaded_cats.png)
 
 Service inputs 3 parameters: url, images count and max count of threads that will be used. Service downloads images to the "images" folder that is located with the solution.
 ## Installation
